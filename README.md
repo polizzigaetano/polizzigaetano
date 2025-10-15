@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Gaetano Polizzi
 
-🎯 **Content Supply Chain & GenStudio Expert - Sr. Solutions Consultant @Adobe**  
+🎯 **Content Supply Chain & GenStudio Expert - Sr. Solutions Consultant @ Adobe**  
 Empowering organisations to deliver exceptional digital experiences through data-driven, personalised, and scalable solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaetano%20Polizzi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/polizzigaetano)
