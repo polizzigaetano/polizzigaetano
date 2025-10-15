@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **polizzigaetano/polizzigaetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,14 +16,14 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Gaetano Polizzi
 
-🎯 **Solution Consultant @ Adobe**  
+🎯 **Content Supply Chain & GenStudio Expert - Sr. Solutions Consultant @Adobe**  
 Empowering organisations to deliver exceptional digital experiences through data-driven, personalised, and scalable solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gaetano%20Polizzi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/polizzigaetano)
 [![Adobe](https://img.shields.io/badge/Adobe-Experience%20Cloud-FF0000?style=flat-square&logo=adobe)](https://business.adobe.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-@polizzigaetano-181717?style=flat-square&logo=github)](https://github.com/polizzigaetano)
 
----
+<!---
 
 ## 🚀 About Me  
 I’m a Solution Consultant with a deep passion for **digital transformation**, **customer experience strategy**, and the power of the **Adobe Experience Cloud**.  
@@ -61,15 +59,6 @@ With a strong foundation in **marketing technology**, **metadata management**, a
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=polizzigaetano&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polizzigaetano&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ## 🌍 Let’s Connect  
 
 📫 [LinkedIn](https://www.linkedin.com/in/polizzigaetano)  
@@ -84,3 +73,4 @@ With a strong foundation in **marketing technology**, **metadata management**, a
 ---
 
 ⭐️ *“Bridging creativity, data, and technology — one experience at a time.”*
+-->
