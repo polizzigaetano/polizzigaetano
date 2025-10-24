@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Gaetano Polizzi
+# 👋 Hi, I'm Gaetano (Tano) Polizzi
 
 🎯 **Content Supply Chain & GenStudio Expert - Sr. Solutions Consultant @ Adobe**  
 Empowering organisations to deliver exceptional digital experiences through data-driven, personalised, and scalable solutions.
